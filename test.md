@@ -1,1 +1,1 @@
-[goto home](/)
+[goto home](/test)
