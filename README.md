@@ -1,3 +1,3 @@
 # test
 demo
-[goto test](/test)
+[goto test](/test/test)
